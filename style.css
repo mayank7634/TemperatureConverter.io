@@ -1,0 +1,66 @@
+body{
+    margin-top: 100px;
+    text-align:center;
+    border-radius: 20px;
+    
+  }
+
+  
+  h1 {
+    padding-bottom: 0.5rem;
+    
+  }
+  
+  input[type=number] {
+    cursor: pointer;
+  }
+  
+  #input-celsius{
+    background-color: #52DDCF;
+    font-size: 2.5rem;
+  }
+  
+  #input-fahrenheit{
+    background-color: #16BAC5;
+    font-size: 2.5rem;
+  }
+  
+  #input-kelvin{
+    background-color: #42a0d9;
+    font-size: 2.5rem;
+  }
+  
+  .form-padding {
+    padding: 2rem 1rem;
+    border-radius: 30px;
+   
+  }
+  
+  ::-webkit-input-placeholder {
+    color: #d36a6a !important;
+  }
+  ::-moz-placeholder {
+    color: #FFFFFF !important;
+  }
+  :-ms-input-placeholder {
+    color: #FFFFFF !important;
+  }
+  :-moz-placeholder {
+    color: #FFFFFF !important;
+  }
+  
+  footer{
+    padding-top: 1.2rem;
+    font-size: 1.7rem;
+    text-align:center;
+    margin-top: 50px;
+    background-color: #d94281;
+    font-style: italic;
+  }
+  
+  .icons{
+    margin-top: 100px;
+    max-width: 25px;
+    padding-bottom: 100px;
+    height: 100;
+  }
